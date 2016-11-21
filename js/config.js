@@ -86,6 +86,8 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Big Baby D.R.A.M. - Broccoli feat. Lil Yachty"},
+	{youtube: "KUogZWhlyt0", name: "Big Baby D.R.A.M. - Broccoli feat. Lil Yachty"},
+	{youtube: "E5ONTXHS2mM", name: "Desiigner - Panda"},
 ];
 
 /*Random music order?*/
